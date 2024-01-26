@@ -1,2 +1,2 @@
 Files in this repository are from a research study to characterize the context in which state laws regarding patient brokering and deceptive marking of substance use disorder (SUD) treatment were passed or operated. We considered data on state SUD task forces, recovery housing licensure laws, general anti-kickback laws, and prosecutions, in addition to data on state policies targeting patient brokering and deceptive marketing.
-Research was supported by Arnold Ventures (Grant #20-04122, PI: Garrido)
+Research was supported by fudning from Arnold Ventures to Boston University School of Public Health (Grant #20-04122, PI: Garrido)
